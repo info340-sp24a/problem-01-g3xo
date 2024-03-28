@@ -2,7 +2,6 @@ body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #ff69b4;
     background-color: #ffe4e1;
 }
 
@@ -17,11 +16,9 @@ img {
     max-height: 400px;
     width: auto;
     margin: 20px auto;
-    border: 2px solid #ff69b4;
 }
 
 p {
-    color: #ffc0cb;
     margin-bottom: 10px;
 }
 
@@ -31,7 +28,6 @@ a {
 }
 
 a:hover {
-    color: #ff1493;
     text-decoration: underline;
 }
 
@@ -43,7 +39,6 @@ ul {
 
 ul li {
     margin-bottom: 5px;
-    color: #ff69b4;
 }
 
 .highlight {
